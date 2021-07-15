@@ -1,9 +1,11 @@
-# Precourse Personal Repo
+# H1 **Tribute Page to Diesel the Dinosaur**:
 
-Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. Now that you have used GitHub Classroom to clone down this repo, have a try at the following:
+Diesel the Dinosaur was created as a character to engage young children with battery chemistry. I found immediate joy in becoming Diesel the Dinosaur. The reacations of children and adults alike are incredibly heartwarming. 
 
-- Take your code from the Codepen and insert it into the HTML and CSS files within the repository.
-- Use your new Markdown skills to write a README for the repository. In it, you can talk about why you chose the subject you chose for your tribute page as well as what you learned making it and any reflections on the development journey. You are welcome to write in this README file and delete these instructions before pushing up.
-- Add, commit, and push your changes to that repository using your new Git skills on the command line in the VS Code terminal.
-- You can then go in and make the repository public in the settings if you'd like so that it shows up on your GitHub profile for the world to see.
-- This way, you'll embed your skills and have your first project in your portfolio, and we'll be able to check out your code and be able to give you feedback as well.
+Desipite a the number of public interactions being limited by lockdown last year, a few *moments* of Diesel's life during lockdown were captured and published on Twitter to make people smile. 
+
+## H2 *Reflections*:
+- I enjoy things much more when I have a bit of creative freedom.
+- Having fun along the way is important.
+- Code makes sense!
+- Formatting is super important for readability.
