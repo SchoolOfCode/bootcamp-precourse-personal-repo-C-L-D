@@ -25,13 +25,13 @@ img {
   max-width: 460px;
 }
 
-#img-div{
+#img-div {
   background: #9FF8E3;
   padding: 1.5em;
   margin: 0em 20em 0em 20em;
 }
 
-#tribute-info{
+#tribute-info {
   background: #9FF8E3;
   padding: 1.5em;
   margin: 0em 20em 0em 20em;
@@ -44,7 +44,7 @@ figcaption {
   line-height: 3em;
 }
 
-#subtitle{
+#subtitle {
   font-size: 1.1em;
   background: #9FF8E3;
 }
@@ -53,29 +53,29 @@ p1 {
   text-align: center;
 }
 
-h2{
+h2 {
   text-align: center;
   font-size: 1.5em
 }
 
-o1{
+o1 {
   text-align: left;
 }
 
-li{
+li {
   margin: 0em 0em 0em 9em;
   line-height: 2em;
   font-size: 1.2em;
 }
 
-p2{
+p2 {
   font-style: italic;
   text-align: center;
   background: #DDF7F1;
   padding: 1.5em;
 }
 
-#footnote{
+#footnote {
   background: #9FF8E3;
   padding: 1.5em 3.35em 1.5em 3.35em;
   margin: 0em 16.75em 5em 16.75em;
