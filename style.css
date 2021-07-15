@@ -11,7 +11,7 @@ body {
 }
 
 h1{
-  font-size: 2.5em;
+  font-size: 3em;
   text-align: center;
   font-weight: bold;
   }
@@ -63,7 +63,7 @@ o1 {
 }
 
 li {
-  margin: 0em 0em 0em 9em;
+  padding: 0em 0em 0em 20em;
   line-height: 2em;
   font-size: 1.2em;
 }
@@ -87,5 +87,10 @@ p2 {
     border-color: #029A77;
     border-width: 1.5em;
     border-style: solid;
+}
+
+#title {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
 }
 
